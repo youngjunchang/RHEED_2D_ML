@@ -9,11 +9,13 @@ The provided python file(PCA_Kmeans.py) is the collection of defined functions u
 
 ## How to Use
 
-To apply PCA and K-means CLustering:\n
-Change (name = "B303_Trim") in box[2] of PCA to (name = "YOUR_FILE_NAME").\n The code accepts mp4 files by default although this may be modified.\n\n
+To apply PCA and K-means CLustering:
 
-Run PCA.ipynb and then Kmeans.ipynb\n
-Running the PCA file will automatically save the following contents\n
+Change (name = "B303_Trim") in box[2] of PCA to (name = "YOUR_FILE_NAME").
+The code accepts mp4 files by default although this may be modified.
+
+Run PCA.ipynb and then Kmeans.ipynb
+Running the PCA file will automatically save the following contents
 
 
 
